@@ -20,7 +20,7 @@ Data for products, sales, and user accounts is stored in a database file. The sy
 
 ## How to Run
 
-1. Clone the repository: git clone https://github.com/your-username/supermarket-billing-system.git<br>
+1. Clone the repository: git clone https://github.com/Bhumika2808/supermarket-billing-system.git<br>
 2. Navigate to the project directory: cd supermarket-billing-system<br>
 3. Compile the code: g++ main.cpp -o supermarket<br>
 4. Run the executable: ./supermarket<br>
