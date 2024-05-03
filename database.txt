@@ -1,0 +1,5 @@
+ 23 tea 89 2
+ 7 band 66 5
+ 2 hairband 20 1
+ 22 copy 35 3
+ 43 eraser 23 3
